@@ -1,0 +1,19 @@
+{
+    "name": "doggie",
+    "photoUrls": [
+        "sunt"
+
+    ],
+    "id": -18698263,
+    "category": {
+        "id": -32262902,
+        "name": "fugiat aute ad occaecat"
+    },
+    "tags": [
+        {
+            "id": -34084224,
+            "name": "nisi dolor commodo non"
+        }
+    ],
+    "status": "sold"
+}
